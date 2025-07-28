@@ -1,0 +1,15 @@
+# Core PDF processing - lightweight alternative
+PyMuPDF==1.23.3
+
+# Machine learning - optimized version
+scikit-learn==1.3.0
+
+# Numerical computing - optimized
+numpy==1.24.4
+
+# Additional optimizations for better performance
+# Lightweight text processing
+regex==2023.8.8
+
+# Memory optimization
+psutil==5.9.5
